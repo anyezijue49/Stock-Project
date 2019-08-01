@@ -15,7 +15,7 @@ If you want to run the code and learn my thoughts, please follow the below steps
 1. Run `get-data.ipynb` to generate all gap opportunity (with stock, date, sector, and other variables I currently came up with)
 2. Run `modeling.ipynb` to build the model.
 
-The current model AUC is 0.667, which I believe is not a good result since we only have 30 test samples.
+The current model **AUC** is `0.667`, which I believe is not a good result since we only have `44` test samples.
 
 If you have any thoughts or suggestions, please leave your comments or reach me out at sguo74@gmail.com
 
