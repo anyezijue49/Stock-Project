@@ -1,6 +1,6 @@
 # Gap Over 250 moving average price
 
-This is a project to learning investment opportunity when the stock price fall down with a **GAP**(today's opening price is much lower, like 10% lower, than yesterday's closing price) accross 250 days moving average. Usually such Gap happened when there is some really bad news come out to turn the stock trend from bullish to bearish (MA 250 is usually to measure the long-term trend of the stock price). 
+This is a project to learn investment opportunity when the stock price fall down with a **GAP**(today's opening price is much lower, like 10% lower, than yesterday's closing price) accross 250 days moving average. Usually such Gap happened when there is some really bad news come out to turn the stock trend from bullish to bearish (MA 250 is usually to measure the long-term trend of the stock price). 
 
 However, we know [**Momentum**](https://en.wikipedia.org/wiki/Momentum_(finance)) exists and it will pull down the stock price away from its reasonable price temporally when some emergeny happened. But the price will finally revert back because of [**mean reversion**](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
 
