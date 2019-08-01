@@ -6,7 +6,7 @@ However, we know [**Momentum**](https://en.wikipedia.org/wiki/Momentum_(finance)
 
 So, to me it seems like an opportunity to buy the stock in a lower price once the gap occur and the momentum pull down the price, hold the stock until the price revert to gain the profit.
 
-However, the above strategy not always works. I gathered last 19 years data from stocks listed on S&P 500, the gap opportunity only occured 362 times. 70% of times the price will revert back in 30 business days. There still exists 30% times taht the price won't go back and you may lose a great amount of money if you insist on the above strategy.
+However, the above strategy not always works. I gathered last 19 years data from stocks listed on S&P 500, the gap opportunity only occured 362 times. 70% of times the price will revert back in 30 business days. There still exists 30% times that the price won't go back and you may lose a great amount of money if you insist on the above strategy.
 
 So, my work is to build a model to predict whether or not the gap opportunity is truly an opportunity not a trap. The project is still on-going and I may make some updates in the next few weeks to months.
 
